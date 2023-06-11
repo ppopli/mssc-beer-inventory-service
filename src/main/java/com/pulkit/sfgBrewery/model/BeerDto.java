@@ -1,4 +1,4 @@
-package com.pulkit.SfgBrewery.model;
+package com.pulkit.sfgBrewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;

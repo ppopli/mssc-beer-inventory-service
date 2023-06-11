@@ -1,6 +1,6 @@
 package guru.sfg.beer.inventory.service.services;
 
-import com.pulkit.SfgBrewery.events.NewInventoryEvent;
+import com.pulkit.sfgBrewery.events.NewInventoryEvent;
 import guru.sfg.beer.inventory.service.config.JmsConfig;
 import guru.sfg.beer.inventory.service.domain.BeerInventory;
 import guru.sfg.beer.inventory.service.repositories.BeerInventoryRepository;
